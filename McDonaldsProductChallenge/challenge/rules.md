@@ -1,5 +1,5 @@
-# McDonals Product Challenge
-You need to create a card product equal to the [Mcdonals Website](https://www.mcdonalds.com.pa/)
+# McDonalds Product Challenge
+You need to create a card product equal to the [Mcdonalds Website](https://www.mcdonalds.com.pa/)
 <br>
 *you can choose the font style and sizes, I recommend to visit the website and find the most similar fonts.*
 
