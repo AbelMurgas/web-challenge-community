@@ -70,4 +70,9 @@ body {
     border-radius: 5px 5px 0px 0px;
 }
 
+.btn:hover{
+    transition: 0s;
+    background-color: #C08B00;
+  }
+
 
