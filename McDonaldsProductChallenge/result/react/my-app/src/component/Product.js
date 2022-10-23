@@ -13,7 +13,7 @@ export default class Product extends React.Component{
             <div class="card-body d-flex flex-column justify-content-between ">
                 <div>
                     <div className="card-title h5">{this.props.title}</div>
-                    <div className="card-text p mb-4">{this.props.info}</div>
+                    <div className="card-text p mb-2">{this.props.info}</div>
                 </div>
                 {this.props.btnInfo && <div><a href="#" className='btn btn-warning mb-3'>{this.props.btnInfo}</a></div> }
             </div>
